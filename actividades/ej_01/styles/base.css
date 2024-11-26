@@ -19,6 +19,8 @@ header h1 {
 
 main {
     min-height: 70vh;
+    text-align: center;
+    color: aquamarine;
 }
 
 footer {
