@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
-    color: #000080;
+    background-color: #3aff3a;
+    color: #000080c5;
 }
 
 header {
-    background-color: #176fc7;
+    background-color: #b1bac4;
     padding: 20px 0;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
-    color: white;
+    color: rgb(189, 12, 12);
 }
 
 main {
@@ -22,7 +22,7 @@ main {
 }
 
 footer {
-    background-color: #176fc7;
+    background-color: #0a2947;
     color: white;
     text-align: center;
     padding: 10px 0;
